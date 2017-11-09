@@ -1,0 +1,24 @@
+/*公共样式  */
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+a img{
+    border:none;
+}
+ul li{
+    list-style: none;
+}
+img{
+    display: block;
+}
+header,nav,article,section,footer,address,aside{
+    display: block;
+}
+
+body{
+    width: 750px;
+}
